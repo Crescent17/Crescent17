@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Crescent17
+- 👀 I’m interested in Java Development
+- 🌱 I’m currently learning SQL and Hibernate
+- 💞️ I’m looking to collaborate on interesting Java projects
+- 📫 How to reach me: https://www.linkedin.com/in/marat-hajybalayeu-14730220a/
